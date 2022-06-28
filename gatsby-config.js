@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "My First Gatsby Site",
+    title: "나의 첫 개비지 사이트",
     siteUrl: `https://www.yourdomain.tld`,
     description: "description 입니다.",
   },
